@@ -1,5 +1,7 @@
-n = 4
-mult = 0
-for i in range(n):
-    mult *= i
-print(mult)
+num1 = 4
+num2 = 4
+multi = 0
+for i in range(mt):
+    multi *= i
+print(multi)
+print(num1)
