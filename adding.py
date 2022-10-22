@@ -1,8 +1,8 @@
-num1 = 4
+n1 = 4
 m = 2
-final_sum = 0
-for i in range(num1):
-    final_sum += i
-print(final_sum)
+fisum = 0
+for i in range(n1):
+    fisum += i
+print(fisum)
 print(m)
 print(n)
