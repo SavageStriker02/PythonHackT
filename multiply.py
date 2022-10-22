@@ -1,7 +1,7 @@
-num1 = 4
-num2 = 4
-multi = 0
+n1 = 4
+n2 = 4
+mul = 0
 for i in range(mt):
-    multi *= i
-print(multi)
-print(num1)
+    mul *= i
+print(mul)
+print(n1)
